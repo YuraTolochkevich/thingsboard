@@ -90,6 +90,7 @@
         <module>ui</module>
         <module>tools</module>
         <module>application</module>
+        <module>scheduler</module>>
     </modules>
 
     <profiles>
